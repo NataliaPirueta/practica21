@@ -2,3 +2,8 @@
 body{
     background-color: rgb(137, 127, 227);
 }
+
+h1{
+    color: navy;
+    margin-left: 20px;
+}
